@@ -13,4 +13,4 @@ Some of the concepts of ARKit used in this project are
 * ```SCNAction```
 
 
-> Read complete article on [medium](https://medium.com/dev-genius/swift-3d-looking-animated-globe-with-calayer-307942174caf)
+> Read complete article on [medium](https://medium.com/@dharmeshr712/swift-arkit-mini-solar-system-b9cf394d274)
