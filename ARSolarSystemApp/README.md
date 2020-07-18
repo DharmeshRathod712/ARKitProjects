@@ -14,3 +14,7 @@ Some of the concepts of ARKit used in this project are
 
 
 > Read complete article on [medium](https://medium.com/@dharmeshr712/swift-arkit-mini-solar-system-b9cf394d274)
+
+# Final Output looks something like below .gif
+
+![3D Globe Animation Output](https://github.com/DharmeshRathod712/ARKitProjects/blob/master/ARSolarSystemApp/OutputImage/Output.gif)
