@@ -1,0 +1,17 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "dharmesh.arreferenceimage"
+    },
+    {
+      "filename" : "king.arreferenceimage"
+    },
+    {
+      "filename" : "queen.arreferenceimage"
+    }
+  ]
+}
