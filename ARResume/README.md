@@ -17,4 +17,4 @@ Some of the concepts of ARKit and SpriteKit used in this project are
 
 # Final Output looks something like below video
 
-![AR Resume Output](https://github.com/DharmeshRathod712/ARKitProjects/blob/master/ARResume/OutputVideo/OutputVideo.mp4)
+![AR Resume Output](https://github.com/DharmeshRathod712/ARKitProjects/blob/master/ARResume/Output/Output.gif)
