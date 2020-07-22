@@ -17,4 +17,4 @@ Some of the concepts of ARKit used in this project are
 
 # Final Output looks something like below .gif
 
-![3D Globe Animation Output](https://github.com/DharmeshRathod712/ARKitProjects/blob/master/ARSolarSystemApp/OutputImage/Output.gif)
+![AR SolarSystem App Output](https://github.com/DharmeshRathod712/ARKitProjects/blob/master/ARSolarSystemApp/OutputImage/Output.gif)
