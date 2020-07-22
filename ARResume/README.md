@@ -15,6 +15,6 @@ Some of the concepts of ARKit and SpriteKit used in this project are
 * ```SKVideoNode```
 
 
-# Final Output looks something like below video
+# Final Output looks something like below .gif
 
 ![AR Resume Output](https://github.com/DharmeshRathod712/ARKitProjects/blob/master/ARResume/Output/Output.gif)
