@@ -33,10 +33,9 @@ class ViewController: UIViewController, ARSCNViewDelegate, Storyboarded {
         readData()
         
         let heartScene = SCNScene(named: "art.scnassets/Heart.scn")
-        //let diamondScene = SCNScene(named: "art.scnassets/Diamond.scn")
         
         heartNode = heartScene?.rootNode
-        diamondNode = SCNNode()//diamondScene?.rootNode
+        diamondNode = SCNNode()
     }
     
     override func viewWillAppear(_ animated: Bool) {
