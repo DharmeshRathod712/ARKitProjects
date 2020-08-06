@@ -26,7 +26,7 @@ Some of the concepts of ARKit and SceneKit used in this project are
 
 # CREDITS:
 
-Thanks to @MitrofD and his awesome TLAnalogJoystick library, implementing Joystick 🕹 functionality in this project was possible. You can find this library [here](https://github.com/MitrofD/TLAnalogJoystick) 🤩.
+Thanks to [@MitrofD](https://github.com/MitrofD) and his awesome [TLAnalogJoystick](https://github.com/MitrofD/TLAnalogJoystick) library 🤩, implementing Joystick 🕹 functionality in this project was possible.
 
 
 # Final Output looks something like below .gif
