@@ -33,4 +33,4 @@ Thanks to @MitrofD and his awesome TLAnalogJoystick library, implementing Joysti
 
 # Final Output looks something like below .gif
 
-![AR Resume Output](https://github.com/DharmeshRathod712/ARKitProjects/blob/master/ARResume/Output/Output.gif)
+![AR Ikea Output](https://github.com/DharmeshRathod712/ARKitProjects/blob/master/ARKeaApp/Output/ARKea.gif)
